@@ -10,3 +10,6 @@ Article Link: https://aws.amazon.com/compare/the-difference-between-frontend-and
 
 Hobbies: 
 Gaming
+
+Main Language:
+Chinese
