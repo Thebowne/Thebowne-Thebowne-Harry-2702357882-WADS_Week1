@@ -13,3 +13,6 @@ Gaming
 
 Main Language:
 Chinese
+
+Favourite Food: 
+Nasi Bebek
